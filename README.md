@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1389389898955620554?showDisplayName=true&idleMessage=:C++%20fucking%20sucks%lmao)](https://discord.com/users/1389389898955620554)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1389389898955620554?showDisplayName=true&idleMessage=C++%20fucking%20sucks%20lmao)](https://discord.com/users/1389389898955620554)
